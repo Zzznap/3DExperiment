@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bcf748cb85371b34fa8ed19acfef715b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Smiley Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 28468e05dcbfa5e43abc14d98bc126fd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
