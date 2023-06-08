@@ -15,6 +15,8 @@ public class LiveWall : MonoBehaviour
     void Start()
     {
         player = GameObject.FindWithTag("Player");
+        maxPos = GameObject.Find("MinAndMaxPos").GetComponent<MinAndMaxPos>().maxPos;
+        minPos = GameObject.Find("MinAndMaxPos").GetComponent<MinAndMaxPos>().minPos;
         initPos = player.transform.position;
     }
 
